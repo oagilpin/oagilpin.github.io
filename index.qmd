@@ -1,11 +1,13 @@
 ---
-title: "oagilpin.github.io"
+title: "About Me"
+author: "Olivia Gilpin"
+date: "2025-02-11"
+Images: "ProfilePic.JPG" 
+format:
+  html:
+    toc: true
+    theme: cosmo  # Use a default theme like 'cosmo'
+    css: styles.css
+    image-shape: rectangle
+    image-width: 15em
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
