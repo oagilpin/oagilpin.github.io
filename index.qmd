@@ -1,9 +1,9 @@
 ---
 title: "Olivia Gilpin"
-Images: "ProfilePic.JPG"
-toc: false
 about: 
+  id: hero-heading
   template: jolla
+  image: ProfilePic.JPG
   image-shape: round
   image-width: 17em
   links:
