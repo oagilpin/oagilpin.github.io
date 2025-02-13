@@ -1,6 +1,6 @@
 ---
 title: "Resume"
+format: html
 ---
 
-[Click to view my Resume](docs/Olivia_Gilpin_Resume.pdf)
----
+## [Click to view my Resume](docs/Olivia_Gilpin_Resume.pdf)

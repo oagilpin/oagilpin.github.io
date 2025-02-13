@@ -1,5 +1,6 @@
 ---
 title: "Olivia Gilpin"
+subtitle: "B.S. Ecosystem Science and Sustainability | B.A. Criminology, Minor Anthropology"
 about: 
   id: hero-heading
   template: jolla
@@ -11,4 +12,6 @@ about:
       href: https://www.linkedin.com/in/olivia-gilpin/
     - text: GitHub
       href: https://github.com/oagilpin
+    - text: Email
+      href: mailto:oagilpin@gmail.com
 ---
