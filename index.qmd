@@ -1,15 +1,22 @@
 ---
-title: "About Me"
-author: "Olivia Gilpin"
-date: "2025-02-11"
+title: "Olivia Gilpin"
 Images: "ProfilePic.JPG"
-format:
-  html:
-    toc: true
-    theme: "cosmo"
-    image-shape: "rectangle"
-    image-width: "15em"
-    Links:
-      - text: "LinkedIn"
-        url: "https://www.linkedin.com/in/olivia-gilpin/"
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/olivia-gilpin/
+    - text: GitHub
+      href: https://github.com/oagilpin
+    - text: Email
+      href: oagilpin@gmail.com
+      
+---
+
+About: 
+I am a student nearing the completion of my B.S. in Ecosystem Science and Sustainability from Colorado State University, with strong expertise in environmental research, conservation, and sustainability. My experience includes field research and data collection with the Colorado Forest Restoration Institute and managing operations in healthcare administration. As Vice President of Minoritized Genders in Natural Resources, I advocate for inclusivity and mentorship through ENGAGE Scholars. I am committed to driving environmental initiatives that integrate science, policy, and equity through effective communication and collaboration.
+
 ---
