@@ -10,7 +10,6 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - Resume.qmd
 
 format:
   html:
@@ -19,6 +18,4 @@ format:
     toc: true
 
 editor: visual
-
-
 
