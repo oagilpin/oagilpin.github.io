@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "Olivia Gilpin",
     "section": "",
-    "text": "About: I am a student nearing the completion of my B.S. in Ecosystem Science and Sustainability from Colorado State University, with strong expertise in environmental research, conservation, and sustainability. My experience includes field research and data collection with the Colorado Forest Restoration Institute and managing operations in healthcare administration. As Vice President of Minoritized Genders in Natural Resources, I advocate for inclusivity and mentorship through ENGAGE Scholars. I am committed to driving environmental initiatives that integrate science, policy, and equity through effective communication and collaboration."
+    "text": "css: - styles.css"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a student nearing the completion of my B.S. in Ecosystem Science and Sustainability from Colorado State University, with strong expertise in environmental research, conservation, and sustainability. I hold a B.A. in Criminology with a minor in Anthropology from Butler University, and my unique combination of social science and environmental science expertise allows me to approach sustainability challenges from multiple angles. My experience includes field research and data collection with the Colorado Forest Restoration Institute and managing operations in healthcare administration. As Vice President of Minoritized Genders in Natural Resources, I advocate for inclusivity and mentorship through ENGAGE Scholars. I am committed to driving environmental initiatives that integrate science, policy, and equity through effective communication and collaboration.\nReach me at: oagilpin@gmail.com"
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Click to view my Resume"
   }
 ]
