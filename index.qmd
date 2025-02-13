@@ -2,12 +2,14 @@
 title: "About Me"
 author: "Olivia Gilpin"
 date: "2025-02-11"
-Images: "ProfilePic.JPG" 
+Images: "ProfilePic.JPG"
 format:
   html:
     toc: true
-    theme: cosmo  # Use a default theme like 'cosmo'
-    css: styles.css
-    image-shape: rectangle
-    image-width: 15em
+    theme: "cosmo"
+    image-shape: "rectangle"
+    image-width: "15em"
+    Links:
+      - text: "LinkedIn"
+        url: "https://www.linkedin.com/in/olivia-gilpin/"
 ---
